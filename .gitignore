@@ -1,0 +1,53 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# Flutter / mobile builds
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+android/.gradle/
+ios/Pods/
+
+# Archives and generated packages
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Large datasets and model weights
+dataset/
+datasets/
+data/
+archive*/
+celeba_testing/
+football-player*/
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.dat
+
+# Generated reports/results
+runs/
+outputs/
+results/
+*.log
