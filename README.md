@@ -1,12 +1,24 @@
 # Smart Sign Language Glove
 
-**Field:** Graduation Project, Assistive Technology, and Embedded AI  
-**Source:** Year 4 / Semester 2 / Graduation Project
+## Overview
+A graduation project exploring a smart glove for sign-language recognition and translation, combining assistive technology, embedded sensing, dataset preparation, and machine learning.
 
-This graduation project focuses on a smart glove for sign-language recognition or translation. It includes documentation, datasets, and proposal material, so it relates to assistive technology, embedded sensing, human-computer interaction, and machine-learning based gesture recognition.
+## Repository Contents
+- `Graduation Project Proposal.pdf` - proposal document.
+- `documentation/` - research documents, BOM, and project guides.
+- `Funding/` - funding application and budget material.
+- `Letter to word generation/` - dataset generation and letter-to-word ML work.
 
-## GitHub Notes
+## Project Focus
+- Assistive technology
+- Embedded sensing
+- Gesture/sign recognition
+- Dataset generation
+- Letter-to-word prediction
+- Human-computer interaction
 
-- Keep source code, notebooks, reports, diagrams, and lightweight documentation in Git.
-- Do not commit large datasets, generated build folders, archives, trained model weights, or temporary output files.
-- If this project depends on large data files, upload them separately using GitHub Releases, Google Drive, OneDrive sharing, or a dataset platform, then link them from this README.
+## How to Use This Repository
+Start with the proposal and documentation files. Review `Letter to word generation/` separately in Jupyter or Python for the machine learning side.
+
+## Notes
+Model weights, processed datasets, and nested Git metadata were excluded from GitHub where needed.
